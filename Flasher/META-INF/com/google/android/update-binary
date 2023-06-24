@@ -469,25 +469,6 @@ if [ -f version ]; then
   ui_printfile version;
   ui_print " ";
 fi;
-ui_print "==========================================";
-ui_print "|                                        |";
-ui_print "|     |  |   __   °  _|_                 |";
-ui_print "|     |  |  |  |  |   |   |/\  |  \/     |";
-ui_print "|     |__|  |  |  |   |   |    |  /\     |";
-ui_print "|                                        |";
-ui_print "|========================================|";
-ui_print "|      Made with Love and Hardwork.      |";
-ui_print "|========================================|";
-ui_print "| Kernel          : Unitrix              |";
-ui_print "| Device          : Xiaomi Redmi 5 Plus  |";
-ui_print "| Codename        : vince                |";
-ui_print "| Linux version   : 4.9.337 (EOL)        |";
-ui_print "| Android version : 13 (Tiramisu Cake)   |";
-ui_print "| Compiler        : Cosmic Clang         |";
-ui_print "| Maintainer      : GhostMaster69-dev    |";
-ui_print "|========================================|";
-ui_print "| AnyKernel3 by osm0sis @xda-developers. |";
-ui_print "==========================================";
 
 setup_env;
 
